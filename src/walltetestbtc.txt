@@ -1,0 +1,13 @@
+Carteira Test 1
+
+Endereço:  muUwNvfZyrgTzLNGkmtuA8T6XfxpUR6AVn
+Chave Privada:  cVymbbWqZjKXnwEa2zVDUd5XCMZEEFonpzP9nnxdNvHDX4bK6CoS
+Seed true basket multiply raw charge aerobic canoe spy ill naive pair label
+
+
+Carteira Test 2
+
+arteira Gerada com sucesso!
+Endereço:  mxJuuWx4JSbbpABfLo2Fqcw8dfZMTQBH4p
+Chave Privada:  cQRkNkLNtiD8aDYPULZ7BaKpjQZjVQUAMPv2hgmEjpqy8muaNH6i
+Seed benefit head fiber arm honey again orbit harbor hat comfort raccoon cart
